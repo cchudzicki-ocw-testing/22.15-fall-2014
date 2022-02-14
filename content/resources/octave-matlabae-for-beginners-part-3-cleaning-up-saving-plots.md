@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Tutorial Videos
+parent_type: CourseSection
+related_resources_text: '[plotdefaults.m script used in this video (M)](resources/plotdefaults)'
+resource_index_text: ''
 resourcetype: Video
 title: "Octave/MATLAB\xAE for Beginners, Part 3: Cleaning Up & Saving Plots"
 uid: f1a26b7d-cdab-6126-cdf5-e30159517282

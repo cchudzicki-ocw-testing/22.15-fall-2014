@@ -4,7 +4,12 @@ description: 'This file contains information regarding exercise 3: set 1 express
   (ZIP).'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-15-essential-numerical-methods-fall-2014/123daae6516e8ec4ccc8c21310c6defb_ex3_exp01.zip
 file_type: application/zip
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: ex3_exp01.zip
+type: OCWFile
 uid: 123daae6-516e-8ec4-ccc8-c21310c6defb
 ---

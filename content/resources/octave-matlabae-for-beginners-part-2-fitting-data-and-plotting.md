@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Tutorial Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Octave/MATLAB\xAE for Beginners, Part 2: Fitting Data and Plotting"
 uid: c90db866-83cd-18e6-b6fc-8e7d1d277487
