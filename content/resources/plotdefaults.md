@@ -8,6 +8,5 @@ parent_title: Tutorial Videos
 parent_type: CourseSection
 resourcetype: Other
 title: plotdefaults.m
-type: OCWFile
 uid: a16b1d38-0809-87b1-ec8d-6d8882c7fd3e
 ---

@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: ex3_exp02.zip
-type: OCWFile
 uid: dc23901d-03ec-9afd-a039-93376bc68eb1
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Exercise 5 example solution
-type: OCWFile
 uid: c1d933d3-ac39-88fb-b98c-182be25a0bdc
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: ex1_set01.zip
-type: OCWFile
 uid: 3f31a48c-5364-2ff3-5c72-7a6c4b289da4
 ---

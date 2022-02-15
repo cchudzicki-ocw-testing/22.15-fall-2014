@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Exercise instructions and advice '
-type: OCWFile
 uid: 7a59250f-7819-815e-8a27-e3aa36e37562
 ---
