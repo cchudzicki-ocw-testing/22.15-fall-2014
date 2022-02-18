@@ -82,7 +82,7 @@ The students' grades were based on the following activities:
 Student Information
 -------------------
 
-![34 students took this course when it was offered in Fall 2014.]({{< resource_file f1c79f29-a075-bbc5-d74f-b808690e1dcf >}})
+{{< resource f1c79f29-a075-bbc5-d74f-b808690e1dcf >}}
 
 ### Breakdown by Year
 
@@ -112,6 +112,6 @@ Recitations can help greatly, although we do not always have the teaching assist
 Out of Class
 ------------
 
-Outside of class, students read the [course notes]({{< baseurl >}}/pages/lecture-notes) and work on [exercise assignments]({{< baseurl >}}/pages/assignments).
+Outside of class, students read the {{< resource_link ed6fbc8c-33fa-352a-e7bd-2b910c318696 "course notes" >}} and work on {{< resource_link d6c915b9-195a-3a80-7b61-f97e38c7f333 "exercise assignments" >}}.
 
 Each lecture has a set of exercises associated with it. Most of these include programming assignments. Naturally students vary greatly in their experience and expertise in programming. One objective of the course is to help students gain confidence using numerical languages or systems in solving problems. A student with little computation background naturally has to work a bit harder on the programming exercises. The result is that the inexperienced students gain the most. However, I have found that essentially all of them are able to get the exercises done with sufficient consultation. The students report that it does not take them excessive time to complete the assignments, which are considered to be allocated about 3 times as much as the lecture durations.

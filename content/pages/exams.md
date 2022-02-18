@@ -11,6 +11,6 @@ The final exam is closed book. No computational devices are permitted.
 
 Here are two final exams for your preparation and study.
 
-[Final Exam from 2013 (PDF)]({{< baseurl >}}/resources/mit22_15f14_final_2013)
+{{< resource_link 67f64989-4fbb-18d7-fcf8-c00786312948 "Final Exam from 2013 (PDF)" >}}
 
-[Example Final Exam (PDF)]({{< baseurl >}}/resources/mit22_15f14_final_ex)
+{{< resource_link 63ba9675-97ff-eb99-c076-5290162f4821 "Example Final Exam (PDF)" >}}
