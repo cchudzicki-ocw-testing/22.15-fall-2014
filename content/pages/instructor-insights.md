@@ -6,35 +6,31 @@ ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 8325039d-9234-206d-6b43-2c959adf5681
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _22.15 Essential Numerical Methods_ as it was taught by Prof. Ian Hutchinson in the first half of the Fall 2014 term.
 
 This half-semester course introduces computational methods for solving physical problems, especially in nuclear applications. The course covers ordinary and partial differential equations and their representation and solution by finite difference numerical approximations; iterative matrix inversion methods; stability, convergence, accuracy and statistics; and particle representations of Boltzmann's equation and methods of solution such as Monte-Carlo and particle-in-cell techniques. It employs software like MATLAB® or Octave.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
 Students who complete this module will:
 
-*   Become familiar with computational engineering and its mathematical foundations, at an elementary level.
-*   Deepen their understanding of the basic equations governing the phenomena in Nuclear Science and Engineering.
-*   Understand the methods by which physical problems can be solved using computation.
-*   Develop experience, confidence, and good critical judgment in the application of numerical methods to the solution of physical problems.
-*   Strengthen their ability to use computation in theoretical analysis and experimental data interpretation.
+- Become familiar with computational engineering and its mathematical foundations, at an elementary level.
+- Deepen their understanding of the basic equations governing the phenomena in Nuclear Science and Engineering.
+- Understand the methods by which physical problems can be solved using computation.
+- Develop experience, confidence, and good critical judgment in the application of numerical methods to the solution of physical problems.
+- Strengthen their ability to use computation in theoretical analysis and experimental data interpretation.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 {{< quote "“…[E]very advanced engineering and physical science student needs to be able to use numerical methods in their research and professional activities, and they need to know the rudiments of how those methods work." "—Ian Hutchinson" >}}
 
-_Below, Prof. Ian Hutchinson describes various aspects of how he taught _22.15 Essential Numerical Methods_._
+_Below, Prof. Ian Hutchinson describes various aspects of how he taught_ 22.15 Essential Numerical Methods.
 
 ### A Foundational Course for Graduate Study and Research
 
@@ -52,8 +48,7 @@ Because the course is so compressed, tough choices have to be made about materia
 
 I have no qualms about the material or the abbreviated style of the module and how the course is taught. But I do think that less experienced students find a serious challenge in the required speed of assimilation. The intensity of the course—like a boot camp—is exciting; but sometimes a learner just needs time to let the ideas soak in and become a part of one's unconscious mental framework. A half-term module just doesn't have the leisure for that. My hope is that it gives a big push forward in understanding computational methods, and the resultant momentum carries the students beyond the end of the module so that the assimilation takes place more fully in succeeding months and years.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -61,7 +56,7 @@ Curriculum Information
 
 ### Requirements Satisfied
 
-This course is one of six half-semester courses that comprise the core course requirement for [PhD students in Nuclear Science and Engineering](http://catalog.mit.edu/schools/engineering/nuclear-science-engineering/#phd-dsc
+This course is one of six half-semester courses that comprise the core course requirement for \[PhD students in Nuclear Science and Engineering\]([http://catalog.mit.edu/schools/engineering/nuclear-science-engineering/#phd-dsc](http://catalog.mit.edu/schools/engineering/nuclear-science-engineering/#phd-dsc)  
 ). Students must pass the final exam with a B or better. They can take the exam without taking the course, but hardly any do.
 
 ### Offered
@@ -70,8 +65,7 @@ Every fall semester, during the first half of the term.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -79,8 +73,7 @@ The students' grades were based on the following activities:
 - 5% Class interaction
 - 75% Final exam
 
-Student Information
--------------------
+## Student Information
 
 {{< resource f1c79f29-a075-bbc5-d74f-b808690e1dcf >}}
 
@@ -94,23 +87,19 @@ Essentially all the students were from Course 22, but I believe that almost any 
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12.5 hours on the course, roughly divided as follows:
 
-Lecture
--------
+## Lecture
 
 Met 2 times per week for 1.5 hours per session; 13 sessions total.
 
-Recitation
-----------
+## Recitation
 
 Recitations can help greatly, although we do not always have the teaching assistant resources to hold them.
 
-Out of Class
-------------
+## Out of Class
 
 Outside of class, students read the {{< resource_link ed6fbc8c-33fa-352a-e7bd-2b910c318696 "course notes" >}} and work on {{< resource_link d6c915b9-195a-3a80-7b61-f97e38c7f333 "exercise assignments" >}}.
 
