@@ -15,7 +15,7 @@ videos:
 
 In these three short tutorial videos, Prof. Hutchinson demonstrates basic operations with Octave software. The videos should also be helpful for beginning MATLAB{{< sup "®" >}} users.
 
-{{< resource_link a16b1d38-0809-87b1-ec8d-6d8882c7fd3e "plotdefaults.m script used in Part 3 video (M)" >}}
+{{% resource_link a16b1d38-0809-87b1-ec8d-6d8882c7fd3e "plotdefaults.m script used in Part 3 video (M)" %}}
 
 {{< video-gallery "0e9a5812-64e8-07a6-c482-f19256c29502" >}}
 

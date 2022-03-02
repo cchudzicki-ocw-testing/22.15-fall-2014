@@ -11,6 +11,6 @@ The final exam is closed book. No computational devices are permitted.
 
 Here are two final exams for your preparation and study.
 
-{{< resource_link 67f64989-4fbb-18d7-fcf8-c00786312948 "Final Exam from 2013 (PDF)" >}}
+{{% resource_link 67f64989-4fbb-18d7-fcf8-c00786312948 "Final Exam from 2013 (PDF)" %}}
 
-{{< resource_link 63ba9675-97ff-eb99-c076-5290162f4821 "Example Final Exam (PDF)" >}}
+{{% resource_link 63ba9675-97ff-eb99-c076-5290162f4821 "Example Final Exam (PDF)" %}}
