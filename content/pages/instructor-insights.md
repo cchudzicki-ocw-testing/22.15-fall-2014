@@ -52,7 +52,7 @@ I have no qualms about the material or the abbreviated style of the module and h
 
 ### Prerequisites
 
-[_12.010 Computational Methods of Scientific Programming_](/courses/12-010-computational-methods-of-scientific-programming-fall-2011/) or permission of instructor.
+[_12.010 Computational Methods of Scientific Programming_](/courses/12-010-computational-methods-of-scientific-programming-fall-2011) or permission of instructor.
 
 ### Requirements Satisfied
 
