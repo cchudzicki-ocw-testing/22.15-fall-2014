@@ -8,7 +8,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Tutorial Videos
 parent_type: CourseSection
-related_resources_text: '[plotdefaults.m script used in this video (M)](resources/plotdefaults)'
+related_resources_text: '[plotdefaults.m script used in this video (M)](/courses/22-15-essential-numerical-methods-fall-2014/resources/plotdefaults)'
 resource_index_text: ''
 resourcetype: Video
 title: "Octave/MATLAB\xAE for Beginners, Part 3: Cleaning Up & Saving Plots"
