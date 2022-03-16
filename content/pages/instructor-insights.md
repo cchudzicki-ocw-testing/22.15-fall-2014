@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -26,7 +27,7 @@ Students who complete this module will:
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-## Instructor Insights
+## Instructor Interview
 
 {{< quote "“…[E]very advanced engineering and physical science student needs to be able to use numerical methods in their research and professional activities, and they need to know the rudiments of how those methods work." "—Ian Hutchinson" >}}
 
@@ -56,7 +57,7 @@ I have no qualms about the material or the abbreviated style of the module and h
 
 ### Requirements Satisfied
 
-This course is one of six half-semester courses that comprise the core course requirement for \[PhD students in Nuclear Science and Engineering\]([http://catalog.mit.edu/schools/engineering/nuclear-science-engineering/#phd-dsc](http://catalog.mit.edu/schools/engineering/nuclear-science-engineering/#phd-dsc)  
+This course is one of six half-semester courses that comprise the core course requirement for \[PhD students in Nuclear Science and Engineering\]([http://catalog.mit.edu/schools/engineering/nuclear-science-engineering/#phd-dsc](http://catalog.mit.edu/schools/engineering/nuclear-science-engineering/#phd-dsc)   
 ). Students must pass the final exam with a B or better. They can take the exam without taking the course, but hardly any do.
 
 ### Offered
@@ -75,7 +76,9 @@ The students' grades were based on the following activities:
 
 ## Student Information
 
-{{< resource f1c79f29-a075-bbc5-d74f-b808690e1dcf >}}
+### Enrollment
+
+34 students
 
 ### Breakdown by Year
 
@@ -91,15 +94,15 @@ Essentially all the students were from Course 22, but I believe that almost any 
 
 During an average week, students were expected to spend 12.5 hours on the course, roughly divided as follows:
 
-## Lecture
+### Lecture
 
 Met 2 times per week for 1.5 hours per session; 13 sessions total.
 
-## Recitation
+### Recitation
 
 Recitations can help greatly, although we do not always have the teaching assistant resources to hold them.
 
-## Out of Class
+### Out of Class
 
 Outside of class, students read the {{% resource_link ed6fbc8c-33fa-352a-e7bd-2b910c318696 "course notes" %}} and work on {{% resource_link d6c915b9-195a-3a80-7b61-f97e38c7f333 "exercise assignments" %}}.
 
