@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Clean up and save plots. Configure axis labels. Call another script (plotdefaults.m) within fitting.m. Get Octave help with 'doc' command. Using comments in scripts. Save plots with the 'print' command.
 
 **Instructor:** Prof. Ian Hutchinson
+
