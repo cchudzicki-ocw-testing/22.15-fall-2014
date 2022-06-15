@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This page presents a set of three tutorial videos on getting started
+  with Octave. The information will also be useful for beginning MATLAB users.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

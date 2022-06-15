@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents the exercises assigned during the course, along with
+  guidance on academic expectations and advice for completing the exercises.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

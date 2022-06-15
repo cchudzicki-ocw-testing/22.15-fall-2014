@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This page presents two final exams for preparation and study: one given
+  in a prior year (2013), and a another sample exam.'
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
