@@ -6,6 +6,7 @@ file: /courses/22-15-essential-numerical-methods-fall-2014/fbb7bd761d82d45700404
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
